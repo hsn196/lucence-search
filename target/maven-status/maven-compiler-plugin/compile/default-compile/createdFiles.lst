@@ -1,0 +1,11 @@
+com\lucence\search\pojo\ResultsPojo.class
+com\lucence\search\searchPosition\LuceneWriteIndex$1.class
+com\lucence\search\controller\DocumentSearchController.class
+StartApplication.class
+com\lucence\search\App.class
+com\lucence\search\pojo\CustomErrorType.class
+com\lucence\search\precisionRecall\PrecisionRecall.class
+com\lucence\search\searchPosition\LuceneWriteIndex.class
+com\lucence\search\searchPosition\LuceneSearchIndex.class
+com\lucence\search\precisionRecall\QualityBenchmark.class
+com\lucence\search\precisionRecall\Searcher.class
